@@ -63,3 +63,22 @@
     border: .25vmin solid black;
     border-radius: 8px;
 }
+
+
+
+
+
+
+
+.controls {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+.controls button {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+}
